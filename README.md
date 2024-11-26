@@ -179,6 +179,27 @@ book = Book(id=1, title="1984", author="Джордж Оруэлл", year=1949, s
 
 Консольное приложение:
 <p align="center">
-  <img src="screenshots/main_page.png" alt="main" width="100%" height="100%" />
+  <img src="screenshots/1.png" alt="main" width="50%" height="50%" />
 </p>
+
+TXT файл:
+<p align="center">
+  <img src="screenshots/2.png" alt="main" width="50%" height="50%" />
+</p>
+
+WEB приложение:
+<p align="center">
+  <p align="center">
+  <img src="screenshots/3.png" alt="main" width="90%" height="90%" />
+  <img src="screenshots/4.png" alt="main" width="90%" height="90%" />
+  <img src="screenshots/5.png" alt="main" width="90%" height="90%" />
+  <img src="screenshots/6.png" alt="main" width="90%" height="90%" />
+</p>
+
+
+JSON файл:
+<p align="center">
+  <img src="screenshots/7.png" alt="main" width="50%" height="50%" />
+</p>
+
 
